@@ -1,4 +1,4 @@
-# Basic Speech Recognition Tool by Preetha S
+# Basic Speech Recognition Tool
 
 This is a simple speech recognition tool built using Python and Tkinter. The tool allows users to record their speech using a microphone and displays the recognized text on the screen. It provides a user-friendly interface with clear instructions and a microphone button to start recording.
 
