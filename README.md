@@ -8,7 +8,6 @@ This is a simple speech recognition tool built using Python and Tkinter. The too
 - Real-time speech recognition using the Google Web Speech API
 - Displays recognized speech text
 - Provides status messages for listening, processing, and results
-- Includes clickable GitHub and LinkedIn links in the footer
 
 ## Requirements
 
