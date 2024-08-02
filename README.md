@@ -12,7 +12,7 @@ This is a simple speech recognition tool built using Python and Tkinter. The too
 ## Requirements
 
 - Python 3.x
-- Tkinter (usually included with Python installations)
+- Tkinter
 - `speech_recognition` library
 - `pyaudio` library
 
